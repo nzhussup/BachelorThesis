@@ -1,0 +1,6 @@
+The datasets were found on Kaggle.com
+
+The links to the datasets:
+
+- bbc_data.csv: https://www.kaggle.com/datasets/alfathterry/bbc-full-text-document-classification 
+= Sarcasm_Headlines_Dataset_v2.json: https://www.kaggle.com/datasets/rmisra/news-headlines-dataset-for-sarcasm-detection 

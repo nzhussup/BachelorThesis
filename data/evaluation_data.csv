@@ -1,0 +1,5 @@
+Model,Runtime,Accuracy,F1,data
+Decision Tree,0.7,0.8404494382022472,0.8407057619352993,bbc news
+Decision Tree fine-tuned,14.45,0.8179775280898877,0.8227605111668314,bbc news
+Decision Tree,11.28,0.7258909853249476,0.7251371124846202,sarcasm detection
+Decision Tree fine-tuned,58.69,0.6298043326345213,0.5908132035431083,sarcasm detection
