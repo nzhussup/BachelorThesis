@@ -2,12 +2,12 @@
 
 This repository contains the code and data used for my bachelor thesis, which focuses on comparing three different text classification machine learning models (Decision Tree, Random Forest, and LSTM) across five criteria: performance, robustness, interpretability, computational cost, and ease of deployment. The primary metrics used to evaluate performance are accuracy and F1 score, while computational cost is assessed using training time in seconds.
 
-![Python](https://img.shields.io/badge/Python-3.8-blue)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-0.24-orange)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-2.4.1-orange)
-![Pandas](https://img.shields.io/badge/Pandas-1.2.3-green)
-![NumPy](https://img.shields.io/badge/NumPy-1.19.5-blue)
-![NLTK](https://img.shields.io/badge/NLTK-3.5-blue)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![NLTK](https://img.shields.io/badge/NLTK-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ## Table of Contents
 
