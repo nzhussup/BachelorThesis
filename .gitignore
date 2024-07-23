@@ -1,4 +1,6 @@
 .DS_Store
+src/lstm
+src/lstm_sarc
 
 
 # Byte-compiled / optimized / DLL files
