@@ -2,6 +2,27 @@
 
 This repository contains the code and data used for my bachelor thesis, which focuses on comparing three different text classification machine learning models (Decision Tree, Random Forest, and LSTM) across five criteria: performance, robustness, interpretability, computational cost, and ease of deployment. The primary metrics used to evaluate performance are accuracy and F1 score, while computational cost is assessed using training time in seconds.
 
+![Python](https://img.shields.io/badge/Python-3.8-blue)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-0.24-orange)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-2.4.1-orange)
+![Pandas](https://img.shields.io/badge/Pandas-1.2.3-green)
+![NumPy](https://img.shields.io/badge/NumPy-1.19.5-blue)
+![NLTK](https://img.shields.io/badge/NLTK-3.5-blue)
+
+## Table of Contents
+
+- [Repository Structure](#repository-structure)
+  - [Data Folder](#data-folder)
+  - [src Folder](#src-folder)
+- [Project Overview](#project-overview)
+  - [Objective](#objective)
+  - [Evaluation Metrics](#evaluation-metrics)
+  - [Steps](#steps)
+  - [Results](#results)
+- [License](#license)
+- [Acknowledgments](#acknowledgments)
+
+
 ## Repository Structure
 
 ```
